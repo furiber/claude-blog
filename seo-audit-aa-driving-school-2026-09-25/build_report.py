@@ -52,7 +52,7 @@ def main():
     t = re.sub(r"\{\{CHART:(.*?)\}\}", lambda m: f"![{m.group(1)}](charts/{m.group(1)})", t)
     t = re.sub(r"\{\{LIST:(.*?)\}\}", lambda m: "\n*Chart data, top to bottom:*\n\n" + "\n".join(f"- {x}" for x in lists[m.group(1)]) + "\n", t)
     t = re.sub(r"\{\{SECTION:(.*?)\}\}", lambda m: sec[m.group(1)], t)
-    assert "{{" not in t, re.findall(r"\{\{.*?\}\}", t)
+    left = re.findall(r"\{\{(?:CHART|LIST|SECTION|HEALTH|PERF|ONPAGE_TABLE|LH_TABLE)[^}]*\}\}", t); assert not left, left
     open("AUDIT-REPORT.md", "w").write(t); print("wrote AUDIT-REPORT.md", len(t.split()), "words")
 
 

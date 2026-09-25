@@ -92,7 +92,7 @@ reference, on every sub-page that needs a provider):
 On every sub-page (driving-lessons, defensive-driving-course, road-code-practice-test,
 the 3 get-ready pages), replace the current:
 
-```json
+```jsonc
 "provider": {
   "@type": "Organization",
   "@id": "https://www.aa.co.nz/#organization",
@@ -104,7 +104,7 @@ the 3 get-ready pages), replace the current:
 with a reference to the driving-school entity, repeating its own properties, not
 the parent's:
 
-```json
+```jsonc
 "provider": {
   "@type": "Organization",
   "@id": "https://www.aa.co.nz/drivers/driving-school/#organization",
@@ -134,7 +134,7 @@ AEM template pattern: the visible breadcrumb component already holds this exact
 list (title + absolute URL per crumb); the JSON-LD is a straight loop over the
 same model, not a new data source:
 
-```json
+```jsonc
 {
   "@context": "https://schema.org",
   "@type": "BreadcrumbList",
@@ -148,7 +148,7 @@ same model, not a new data source:
 
 ### 3. Enhanced Course + multiple CourseInstance (defensive-driving-course)
 
-```json
+```jsonc
 {
   "@context": "https://schema.org",
   "@type": "Course",

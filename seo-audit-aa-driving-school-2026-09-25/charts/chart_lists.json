@@ -1,0 +1,67 @@
+{
+ "02_category_scores.png": [
+  "Technical SEO (mobile): 76",
+  "On-page: 80",
+  "Content & uniqueness: 70",
+  "Schema: 55",
+  "Performance / CWV: 35",
+  "Mobile UX & accessibility: 80",
+  "GEO / AI readiness: 58"
+ ],
+ "03_lighthouse_scores.png": [
+  "Hub: Performance 30, Accessibility 94, Best practices 96, SEO 77",
+  "Driving lessons: Performance 35, Accessibility 94, Best practices 93, SEO 77",
+  "Defensive driving: Performance 29, Accessibility 95, Best practices 96, SEO 85",
+  "Road Code test: Performance 34, Accessibility 94, Best practices 93, SEO 85",
+  "Get ready: learner: Performance 36, Accessibility 90, Best practices 100, SEO 77",
+  "Get ready: restricted: Performance 36, Accessibility 90, Best practices 96, SEO 85",
+  "Get ready: full: Performance 42, Accessibility 90, Best practices 100, SEO 85"
+ ],
+ "04_serp_positions.png": [
+  "driving lessons nz: #1 (/drivers/driving-school/driving-lessons/)",
+  "driving lessons auckland: #2 (drivingschool.aa.co.nz/)",
+  "defensive driving course nz: #1 (/drivers/driving-school/defensive-driving-course/)",
+  "road code practice test nz: #1 (/drivers/driving-school/road-code-practice-test/)",
+  "learner licence test nz: #2 (/drivers/driving-school/road-code-practice-test/)",
+  "restricted licence test practice nz: #1 (/drivers/driving-school/practice-restricted-test/)",
+  "full licence test nz: #4 (/drivers/driver-licences/full-driver-licences/)"
+ ],
+ "05_competitor_overlap.png": [
+  "aa.co.nz: 7",
+  "nzta.govt.nz: 6",
+  "drive.govt.nz: 5",
+  "a1drivingschool.co.nz: 4",
+  "drivingtests.co.nz: 4",
+  "vtnz.co.nz: 3"
+ ],
+ "07_word_counts.png": [
+  "Hub: 591",
+  "Driving lessons: 1251",
+  "Defensive driving: 1985",
+  "Road Code test: 1004",
+  "Get ready: learner: 904",
+  "Get ready: restricted: 1079",
+  "Get ready: full: 635",
+  "a1drivingschool.co.nz (competitor): 745",
+  "street-talk.co.nz (competitor): 3418",
+  "roadcodepractice.co.nz (competitor): 256"
+ ],
+ "08_geo_signals.png": [
+  "AI crawlers allowed (robots.txt): 100",
+  "Question-format headings (7/7 pages): 100",
+  "Self-contained FAQ answers: 80",
+  "FAQPage schema coverage (1/7): 14",
+  "Entity schema consistency (@id): 30",
+  "llms.txt present: 0",
+  "AI Overview citation observed: 0"
+ ],
+ "09_lcp_by_page.png": [
+  "Hub: 21.2s",
+  "Driving lessons: 28.8s",
+  "Defensive driving: 22.0s",
+  "Road Code test: 22.2s",
+  "Get ready: learner: 22.7s",
+  "Get ready: restricted: 21.7s",
+  "Get ready: full: 20.8s"
+ ]
+}

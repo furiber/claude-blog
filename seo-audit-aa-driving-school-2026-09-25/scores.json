@@ -1,0 +1,34 @@
+{
+ "health": 66,
+ "categories": {
+  "Technical SEO (mobile)": {
+   "weight": 20,
+   "score": 76
+  },
+  "On-page": {
+   "weight": 15,
+   "score": 80
+  },
+  "Content & uniqueness": {
+   "weight": 20,
+   "score": 70
+  },
+  "Schema": {
+   "weight": 10,
+   "score": 55
+  },
+  "Performance / CWV": {
+   "weight": 15,
+   "score": 35
+  },
+  "Mobile UX & accessibility": {
+   "weight": 10,
+   "score": 80
+  },
+  "GEO / AI readiness": {
+   "weight": 10,
+   "score": 58
+  }
+ },
+ "lighthouse_mean_performance": 35
+}

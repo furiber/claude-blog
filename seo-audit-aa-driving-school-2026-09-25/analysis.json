@@ -1,0 +1,5072 @@
+[
+ {
+  "url": "https://www.aa.co.nz/drivers/driving-school/",
+  "slug": "driving-school-hub",
+  "status": 200,
+  "final_url": "https://www.aa.co.nz/drivers/driving-school/",
+  "x_robots": null,
+  "content_type": "text/html;charset=utf-8",
+  "html_bytes_static": 206746,
+  "html_bytes_rendered": 212395,
+  "static": {
+   "title": "AA Driving School: Lessons & Licence Test Prep NZ | AA",
+   "meta_description": "Learn to drive with AA Driving School. Book lessons, prepare for your learner, restricted and full tests, and find a qualified instructor near you.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/",
+   "og_title": "AA Driving School: Lessons & Licence Test Prep NZ | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/vehicles/AA-Driving-School-AA-Member-Benefit.png",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "AA Driving School: Lessons, Practice Tests and Courses"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "AA Driving School: Lessons, Practice Tests and Courses"
+    ],
+    [
+     "h4",
+     "NZTA-qualified instructors"
+    ],
+    [
+     "h4",
+     "Dual-control cars with cameras"
+    ],
+    [
+     "h4",
+     "100,000+ driving lessons completed every year"
+    ],
+    [
+     "h4",
+     "Locations nationwide"
+    ],
+    [
+     "h2",
+     "What stage of licence are you at?"
+    ],
+    [
+     "h3",
+     "1. Learner licence"
+    ],
+    [
+     "h3",
+     "2. Restricted licence"
+    ],
+    [
+     "h3",
+     "3. Full licence"
+    ],
+    [
+     "h2",
+     "Lessons and licence test preparation"
+    ],
+    [
+     "h3",
+     "Driving lessons"
+    ],
+    [
+     "h3",
+     "Practice restricted test"
+    ],
+    [
+     "h3",
+     "Practice full test"
+    ],
+    [
+     "h3",
+     "AA Road Code Practice Test"
+    ],
+    [
+     "h3",
+     "AA Defensive Driving Course"
+    ],
+    [
+     "h3",
+     "Save with AA Membership"
+    ],
+    [
+     "h2",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "What are the stages of getting a driver's licence in NZ?"
+    ],
+    [
+     "h3",
+     "Helpful to know"
+    ],
+    [
+     "h4",
+     "FAQs"
+    ],
+    [
+     "h4",
+     "Tips for driving supervisors"
+    ],
+    [
+     "h4",
+     "Driver licence services"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 1642,
+   "word_count_body": 1642,
+   "jsonld_types": [
+    "Organization",
+    "CollectionPage",
+    "FAQPage"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 380,
+   "links_internal": 352,
+   "imgs": 17,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 7
+  },
+  "rendered": {
+   "title": "AA Driving School: Lessons & Licence Test Prep NZ | AA",
+   "meta_description": "Learn to drive with AA Driving School. Book lessons, prepare for your learner, restricted and full tests, and find a qualified instructor near you.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/",
+   "og_title": "AA Driving School: Lessons & Licence Test Prep NZ | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/vehicles/AA-Driving-School-AA-Member-Benefit.png",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "AA Driving School: Lessons, Practice Tests and Courses"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "AA Driving School: Lessons, Practice Tests and Courses"
+    ],
+    [
+     "h4",
+     "NZTA-qualified instructors"
+    ],
+    [
+     "h4",
+     "Dual-control cars with cameras"
+    ],
+    [
+     "h4",
+     "100,000+ driving lessons completed every year"
+    ],
+    [
+     "h4",
+     "Locations nationwide"
+    ],
+    [
+     "h2",
+     "What stage of licence are you at?"
+    ],
+    [
+     "h3",
+     "1. Learner licence"
+    ],
+    [
+     "h3",
+     "2. Restricted licence"
+    ],
+    [
+     "h3",
+     "3. Full licence"
+    ],
+    [
+     "h2",
+     "Lessons and licence test preparation"
+    ],
+    [
+     "h3",
+     "Driving lessons"
+    ],
+    [
+     "h3",
+     "Practice restricted test"
+    ],
+    [
+     "h3",
+     "Practice full test"
+    ],
+    [
+     "h3",
+     "AA Road Code Practice Test"
+    ],
+    [
+     "h3",
+     "AA Defensive Driving Course"
+    ],
+    [
+     "h3",
+     "Save with AA Membership"
+    ],
+    [
+     "h2",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "What are the stages of getting a driver's licence in NZ?"
+    ],
+    [
+     "h3",
+     "Helpful to know"
+    ],
+    [
+     "h4",
+     "FAQs"
+    ],
+    [
+     "h4",
+     "Tips for driving supervisors"
+    ],
+    [
+     "h4",
+     "Driver licence services"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 1642,
+   "word_count_body": 1642,
+   "jsonld_types": [
+    "Organization",
+    "CollectionPage",
+    "FAQPage"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 380,
+   "links_internal": 352,
+   "imgs": 17,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 7
+  },
+  "mobile_ux": {
+   "scrollWidth": 390,
+   "innerWidth": 390,
+   "horizontal_overflow": false,
+   "tap_targets_under_48px": 22,
+   "text_under_12px": 0,
+   "page_height": 8579
+  },
+  "text_ratio_pct": 5.5,
+  "content": {
+   "has_main_landmark": false,
+   "word_count": 591,
+   "headings": [
+    [
+     "h1",
+     "AA Driving School: Lessons, Practice Tests and Courses"
+    ],
+    [
+     "h4",
+     "NZTA-qualified instructors"
+    ],
+    [
+     "h4",
+     "Dual-control cars with cameras"
+    ],
+    [
+     "h4",
+     "100,000+ driving lessons completed every year"
+    ],
+    [
+     "h4",
+     "Locations nationwide"
+    ],
+    [
+     "h2",
+     "What stage of licence are you at?"
+    ],
+    [
+     "h3",
+     "1. Learner licence"
+    ],
+    [
+     "h3",
+     "2. Restricted licence"
+    ],
+    [
+     "h3",
+     "3. Full licence"
+    ],
+    [
+     "h2",
+     "Lessons and licence test preparation"
+    ],
+    [
+     "h3",
+     "Driving lessons"
+    ],
+    [
+     "h3",
+     "Practice restricted test"
+    ],
+    [
+     "h3",
+     "Practice full test"
+    ],
+    [
+     "h3",
+     "AA Road Code Practice Test"
+    ],
+    [
+     "h3",
+     "AA Defensive Driving Course"
+    ],
+    [
+     "h3",
+     "Save with AA Membership"
+    ],
+    [
+     "h2",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "What are the stages of getting a driver's licence in NZ?"
+    ],
+    [
+     "h3",
+     "Helpful to know"
+    ],
+    [
+     "h4",
+     "FAQs"
+    ],
+    [
+     "h4",
+     "Tips for driving supervisors"
+    ],
+    [
+     "h4",
+     "Driver licence services"
+    ]
+   ],
+   "h2": [
+    "What stage of licence are you at?",
+    "Lessons and licence test preparation",
+    "Frequently asked questions"
+   ],
+   "question_headings": 2,
+   "tables": 0,
+   "lists": 4,
+   "heading_level_skips": 2,
+   "text_ratio_pct": 1.8
+  },
+  "issues": [
+   "relative_canonical",
+   "relative_og_image",
+   "no_main_landmark",
+   "heading_skips_2",
+   "thin_content",
+   "no_breadcrumb_schema",
+   "small_tap_targets"
+  ]
+ },
+ {
+  "url": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+  "slug": "driving-lessons",
+  "status": 200,
+  "final_url": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+  "x_robots": null,
+  "content_type": "text/html;charset=utf-8",
+  "html_bytes_static": 212559,
+  "html_bytes_rendered": 219472,
+  "static": {
+   "title": "AA Driving Lessons: Learner, Restricted & Full | AA",
+   "meta_description": "Book driving lessons with qualified AA instructors for learner, restricted and full licence drivers. AA Members save on lesson packages.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/driving-lessons/",
+   "og_title": "AA Driving Lessons: Learner, Restricted & Full | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/driving-lessons/aa-drivers-seat/driver-training-at-AA-Driving-School.jpg",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "AA driving lessons for learner, restricted and full licences"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "AA driving lessons for learner, restricted and full licences"
+    ],
+    [
+     "h2",
+     "Lesson types and AA Member savings"
+    ],
+    [
+     "h3",
+     "5 lesson package"
+    ],
+    [
+     "h3",
+     "1 hr Starter Lesson"
+    ],
+    [
+     "h3",
+     "1 hr Driving Lesson"
+    ],
+    [
+     "h3",
+     "Practice restricted or full licence test"
+    ],
+    [
+     "h3",
+     "Senior Driver Coaching Session"
+    ],
+    [
+     "h3",
+     "Become an AA Member"
+    ],
+    [
+     "h2",
+     "What's in a one-hour lesson?"
+    ],
+    [
+     "h2",
+     "How to book a lesson"
+    ],
+    [
+     "h4",
+     "Choose location & time"
+    ],
+    [
+     "h4",
+     "Create your profile"
+    ],
+    [
+     "h4",
+     "Connect your Membership"
+    ],
+    [
+     "h4",
+     "Book, pay & drive"
+    ],
+    [
+     "h3",
+     "Why learn with AA Driving School"
+    ],
+    [
+     "h4",
+     "Trusted nationwide"
+    ],
+    [
+     "h4",
+     "Expert Instructors"
+    ],
+    [
+     "h4",
+     "Learn safely"
+    ],
+    [
+     "h4",
+     "Adapted to you"
+    ],
+    [
+     "h3",
+     "AA Driving School learner, Wellington"
+    ],
+    [
+     "h3",
+     "AA Driving School learner, Auckland"
+    ],
+    [
+     "h3",
+     "AA Driving School learner, Christchurch"
+    ],
+    [
+     "h3",
+     "Common questions"
+    ],
+    [
+     "h4",
+     "Should I get professional driving lessons?"
+    ],
+    [
+     "h4",
+     "How many lessons will I need?"
+    ],
+    [
+     "h4",
+     "How do I book a driving lesson?"
+    ],
+    [
+     "h4",
+     "How can I reschedule driving lesson?"
+    ],
+    [
+     "h4",
+     "How can I cancel a driving lesson?"
+    ],
+    [
+     "h4",
+     "Can I get a refund for my unused credits?"
+    ],
+    [
+     "h3",
+     "Continue your driving journey"
+    ],
+    [
+     "h4",
+     "Practice restricted test"
+    ],
+    [
+     "h4",
+     "Defensive Driving Course"
+    ],
+    [
+     "h4",
+     "Road Code practice test"
+    ],
+    [
+     "h4",
+     "Find a location"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 2313,
+   "word_count_body": 2313,
+   "jsonld_types": [
+    "Service"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 383,
+   "links_internal": 347,
+   "imgs": 15,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 1
+  },
+  "rendered": {
+   "title": "AA Driving Lessons: Learner, Restricted & Full | AA",
+   "meta_description": "Book driving lessons with qualified AA instructors for learner, restricted and full licence drivers. AA Members save on lesson packages.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/driving-lessons/",
+   "og_title": "AA Driving Lessons: Learner, Restricted & Full | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/driving-lessons/aa-drivers-seat/driver-training-at-AA-Driving-School.jpg",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "AA driving lessons for learner, restricted and full licences"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "AA driving lessons for learner, restricted and full licences"
+    ],
+    [
+     "h2",
+     "Lesson types and AA Member savings"
+    ],
+    [
+     "h3",
+     "5 lesson package"
+    ],
+    [
+     "h3",
+     "1 hr Starter Lesson"
+    ],
+    [
+     "h3",
+     "1 hr Driving Lesson"
+    ],
+    [
+     "h3",
+     "Practice restricted or full licence test"
+    ],
+    [
+     "h3",
+     "Senior Driver Coaching Session"
+    ],
+    [
+     "h3",
+     "Become an AA Member"
+    ],
+    [
+     "h2",
+     "What's in a one-hour lesson?"
+    ],
+    [
+     "h2",
+     "How to book a lesson"
+    ],
+    [
+     "h4",
+     "Choose location & time"
+    ],
+    [
+     "h4",
+     "Create your profile"
+    ],
+    [
+     "h4",
+     "Connect your Membership"
+    ],
+    [
+     "h4",
+     "Book, pay & drive"
+    ],
+    [
+     "h3",
+     "Why learn with AA Driving School"
+    ],
+    [
+     "h4",
+     "Trusted nationwide"
+    ],
+    [
+     "h4",
+     "Expert Instructors"
+    ],
+    [
+     "h4",
+     "Learn safely"
+    ],
+    [
+     "h4",
+     "Adapted to you"
+    ],
+    [
+     "h3",
+     "AA Driving School learner, Wellington"
+    ],
+    [
+     "h3",
+     "AA Driving School learner, Auckland"
+    ],
+    [
+     "h3",
+     "AA Driving School learner, Christchurch"
+    ],
+    [
+     "h3",
+     "Common questions"
+    ],
+    [
+     "h4",
+     "Should I get professional driving lessons?"
+    ],
+    [
+     "h4",
+     "How many lessons will I need?"
+    ],
+    [
+     "h4",
+     "How do I book a driving lesson?"
+    ],
+    [
+     "h4",
+     "How can I reschedule driving lesson?"
+    ],
+    [
+     "h4",
+     "How can I cancel a driving lesson?"
+    ],
+    [
+     "h4",
+     "Can I get a refund for my unused credits?"
+    ],
+    [
+     "h3",
+     "Continue your driving journey"
+    ],
+    [
+     "h4",
+     "Practice restricted test"
+    ],
+    [
+     "h4",
+     "Defensive Driving Course"
+    ],
+    [
+     "h4",
+     "Road Code practice test"
+    ],
+    [
+     "h4",
+     "Find a location"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 2313,
+   "word_count_body": 2313,
+   "jsonld_types": [
+    "Service"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 383,
+   "links_internal": 346,
+   "imgs": 15,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 1
+  },
+  "mobile_ux": {
+   "scrollWidth": 390,
+   "innerWidth": 390,
+   "horizontal_overflow": false,
+   "tap_targets_under_48px": 25,
+   "text_under_12px": 0,
+   "page_height": 11809
+  },
+  "text_ratio_pct": 7.1,
+  "content": {
+   "has_main_landmark": false,
+   "word_count": 1251,
+   "headings": [
+    [
+     "h1",
+     "AA driving lessons for learner, restricted and full licences"
+    ],
+    [
+     "h2",
+     "Lesson types and AA Member savings"
+    ],
+    [
+     "h3",
+     "5 lesson package"
+    ],
+    [
+     "h3",
+     "1 hr Starter Lesson"
+    ],
+    [
+     "h3",
+     "1 hr Driving Lesson"
+    ],
+    [
+     "h3",
+     "Practice restricted or full licence test"
+    ],
+    [
+     "h3",
+     "Senior Driver Coaching Session"
+    ],
+    [
+     "h3",
+     "Become an AA Member"
+    ],
+    [
+     "h2",
+     "What's in a one-hour lesson?"
+    ],
+    [
+     "h2",
+     "How to book a lesson"
+    ],
+    [
+     "h4",
+     "Choose location & time"
+    ],
+    [
+     "h4",
+     "Create your profile"
+    ],
+    [
+     "h4",
+     "Connect your Membership"
+    ],
+    [
+     "h4",
+     "Book, pay & drive"
+    ],
+    [
+     "h3",
+     "Why learn with AA Driving School"
+    ],
+    [
+     "h4",
+     "Trusted nationwide"
+    ],
+    [
+     "h4",
+     "Expert Instructors"
+    ],
+    [
+     "h4",
+     "Learn safely"
+    ],
+    [
+     "h4",
+     "Adapted to you"
+    ],
+    [
+     "h3",
+     "AA Driving School learner, Wellington"
+    ],
+    [
+     "h3",
+     "AA Driving School learner, Auckland"
+    ],
+    [
+     "h3",
+     "AA Driving School learner, Christchurch"
+    ],
+    [
+     "h3",
+     "Common questions"
+    ],
+    [
+     "h4",
+     "Should I get professional driving lessons?"
+    ],
+    [
+     "h4",
+     "How many lessons will I need?"
+    ],
+    [
+     "h4",
+     "How do I book a driving lesson?"
+    ],
+    [
+     "h4",
+     "How can I reschedule driving lesson?"
+    ],
+    [
+     "h4",
+     "How can I cancel a driving lesson?"
+    ],
+    [
+     "h4",
+     "Can I get a refund for my unused credits?"
+    ],
+    [
+     "h3",
+     "Continue your driving journey"
+    ],
+    [
+     "h4",
+     "Practice restricted test"
+    ],
+    [
+     "h4",
+     "Defensive Driving Course"
+    ],
+    [
+     "h4",
+     "Road Code practice test"
+    ],
+    [
+     "h4",
+     "Find a location"
+    ]
+   ],
+   "h2": [
+    "Lesson types and AA Member savings",
+    "What's in a one-hour lesson?",
+    "How to book a lesson"
+   ],
+   "question_headings": 7,
+   "tables": 0,
+   "lists": 9,
+   "heading_level_skips": 1,
+   "text_ratio_pct": 3.5
+  },
+  "issues": [
+   "relative_canonical",
+   "relative_og_image",
+   "no_main_landmark",
+   "heading_skips_1",
+   "no_breadcrumb_schema",
+   "small_tap_targets"
+  ]
+ },
+ {
+  "url": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+  "slug": "defensive-driving-course",
+  "status": 200,
+  "final_url": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+  "x_robots": null,
+  "content_type": "text/html;charset=utf-8",
+  "html_bytes_static": 227858,
+  "html_bytes_rendered": 254901,
+  "static": {
+   "title": "AA Defensive Driving Course NZ, Cut Your Wait | AA",
+   "meta_description": "The AA Defensive Driving Course helps you become a safer driver and can reduce time to your full licence. Book online or call to enrol today.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/defensive-driving-course/",
+   "og_title": "AA Defensive Driving Course NZ, Cut Your Wait | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/defensive-driving/defensive-driving-course-at-the-AA.jpg",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "AA Defensive Driving Course"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "AA Defensive Driving Course"
+    ],
+    [
+     "h4",
+     "Eligible drivers who complete the course can reach a full licence up to 6 months sooner*"
+    ],
+    [
+     "h2",
+     "A safer driver in 9 hours"
+    ],
+    [
+     "h3",
+     "What does the course include?"
+    ],
+    [
+     "h3",
+     "Four classroom sessions"
+    ],
+    [
+     "h3",
+     "Online hazard perception"
+    ],
+    [
+     "h3",
+     "In-car session (1 hour)"
+    ],
+    [
+     "h3",
+     "Get your certificate"
+    ],
+    [
+     "h2",
+     "Cost & booking"
+    ],
+    [
+     "h2",
+     "Defensive Driving Course vouchers"
+    ],
+    [
+     "h4",
+     "Buy voucher"
+    ],
+    [
+     "h4",
+     "Redeem a voucher"
+    ],
+    [
+     "h3",
+     "Is it worth doing?"
+    ],
+    [
+     "h3",
+     "Tauranga participant"
+    ],
+    [
+     "h3",
+     "Christchurch participant"
+    ],
+    [
+     "h3",
+     "When should you take it?"
+    ],
+    [
+     "h4",
+     "On your learner licence"
+    ],
+    [
+     "h4",
+     "On your restricted licence - best time to attend"
+    ],
+    [
+     "h4",
+     "On your full licence"
+    ],
+    [
+     "h3",
+     "Find a course near you"
+    ],
+    [
+     "h4",
+     "Northland"
+    ],
+    [
+     "h4",
+     "Auckland"
+    ],
+    [
+     "h4",
+     "Waikato"
+    ],
+    [
+     "h4",
+     "Bay of Plenty"
+    ],
+    [
+     "h4",
+     "Hawke's Bay"
+    ],
+    [
+     "h4",
+     "Manawatu-Whanganui"
+    ],
+    [
+     "h4",
+     "Wairarapa"
+    ],
+    [
+     "h4",
+     "Wellington"
+    ],
+    [
+     "h4",
+     "Marlborough + Tasman"
+    ],
+    [
+     "h4",
+     "Canterbury"
+    ],
+    [
+     "h4",
+     "Otago"
+    ],
+    [
+     "h3",
+     "Licensed Providers of the Defensive Driving Course"
+    ],
+    [
+     "h2",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "What's the best defensive driving course in New Zealand?"
+    ],
+    [
+     "h4",
+     "Is the AA Defensive Driving Course worth it?"
+    ],
+    [
+     "h4",
+     "When should I take a defensive driving course?"
+    ],
+    [
+     "h4",
+     "What do you learn in a defensive driving course?"
+    ],
+    [
+     "h4",
+     "How do I book an AA Defensive Driving Course?"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 3012,
+   "word_count_body": 3012,
+   "jsonld_types": [
+    "Course"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 374,
+   "links_internal": 342,
+   "imgs": 11,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 1
+  },
+  "rendered": {
+   "title": "AA Defensive Driving Course NZ, Cut Your Wait | AA",
+   "meta_description": "The AA Defensive Driving Course helps you become a safer driver and can reduce time to your full licence. Book online or call to enrol today.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/defensive-driving-course/",
+   "og_title": "AA Defensive Driving Course NZ, Cut Your Wait | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/defensive-driving/defensive-driving-course-at-the-AA.jpg",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "AA Defensive Driving Course"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "AA Defensive Driving Course"
+    ],
+    [
+     "h4",
+     "Eligible drivers who complete the course can reach a full licence up to 6 months sooner*"
+    ],
+    [
+     "h2",
+     "A safer driver in 9 hours"
+    ],
+    [
+     "h3",
+     "What does the course include?"
+    ],
+    [
+     "h3",
+     "Four classroom sessions"
+    ],
+    [
+     "h3",
+     "Online hazard perception"
+    ],
+    [
+     "h3",
+     "In-car session (1 hour)"
+    ],
+    [
+     "h3",
+     "Get your certificate"
+    ],
+    [
+     "h2",
+     "Cost & booking"
+    ],
+    [
+     "h2",
+     "Defensive Driving Course vouchers"
+    ],
+    [
+     "h4",
+     "Buy voucher"
+    ],
+    [
+     "h4",
+     "Redeem a voucher"
+    ],
+    [
+     "h3",
+     "Is it worth doing?"
+    ],
+    [
+     "h3",
+     "Tauranga participant"
+    ],
+    [
+     "h3",
+     "Christchurch participant"
+    ],
+    [
+     "h3",
+     "When should you take it?"
+    ],
+    [
+     "h4",
+     "On your learner licence"
+    ],
+    [
+     "h4",
+     "On your restricted licence - best time to attend"
+    ],
+    [
+     "h4",
+     "On your full licence"
+    ],
+    [
+     "h3",
+     "Find a course near you"
+    ],
+    [
+     "h4",
+     "Northland"
+    ],
+    [
+     "h4",
+     "Auckland"
+    ],
+    [
+     "h4",
+     "Waikato"
+    ],
+    [
+     "h4",
+     "Bay of Plenty"
+    ],
+    [
+     "h4",
+     "Hawke's Bay"
+    ],
+    [
+     "h4",
+     "Manawatu-Whanganui"
+    ],
+    [
+     "h4",
+     "Wairarapa"
+    ],
+    [
+     "h4",
+     "Wellington"
+    ],
+    [
+     "h4",
+     "Marlborough + Tasman"
+    ],
+    [
+     "h4",
+     "Canterbury"
+    ],
+    [
+     "h4",
+     "Otago"
+    ],
+    [
+     "h3",
+     "Licensed Providers of the Defensive Driving Course"
+    ],
+    [
+     "h2",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "What's the best defensive driving course in New Zealand?"
+    ],
+    [
+     "h4",
+     "Is the AA Defensive Driving Course worth it?"
+    ],
+    [
+     "h4",
+     "When should I take a defensive driving course?"
+    ],
+    [
+     "h4",
+     "What do you learn in a defensive driving course?"
+    ],
+    [
+     "h4",
+     "How do I book an AA Defensive Driving Course?"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 3047,
+   "word_count_body": 3047,
+   "jsonld_types": [
+    "Course"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 374,
+   "links_internal": 342,
+   "imgs": 11,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 1
+  },
+  "mobile_ux": {
+   "scrollWidth": 394,
+   "innerWidth": 394,
+   "horizontal_overflow": false,
+   "tap_targets_under_48px": 34,
+   "text_under_12px": 0,
+   "page_height": 10115
+  },
+  "text_ratio_pct": 8.2,
+  "content": {
+   "has_main_landmark": false,
+   "word_count": 1985,
+   "headings": [
+    [
+     "h1",
+     "AA Defensive Driving Course"
+    ],
+    [
+     "h4",
+     "Eligible drivers who complete the course can reach a full licence up to 6 months sooner*"
+    ],
+    [
+     "h2",
+     "A safer driver in 9 hours"
+    ],
+    [
+     "h3",
+     "What does the course include?"
+    ],
+    [
+     "h3",
+     "Four classroom sessions"
+    ],
+    [
+     "h3",
+     "Online hazard perception"
+    ],
+    [
+     "h3",
+     "In-car session (1 hour)"
+    ],
+    [
+     "h3",
+     "Get your certificate"
+    ],
+    [
+     "h2",
+     "Cost & booking"
+    ],
+    [
+     "h2",
+     "Defensive Driving Course vouchers"
+    ],
+    [
+     "h4",
+     "Buy voucher"
+    ],
+    [
+     "h4",
+     "Redeem a voucher"
+    ],
+    [
+     "h3",
+     "Is it worth doing?"
+    ],
+    [
+     "h3",
+     "Tauranga participant"
+    ],
+    [
+     "h3",
+     "Christchurch participant"
+    ],
+    [
+     "h3",
+     "When should you take it?"
+    ],
+    [
+     "h4",
+     "On your learner licence"
+    ],
+    [
+     "h4",
+     "On your restricted licence - best time to attend"
+    ],
+    [
+     "h4",
+     "On your full licence"
+    ],
+    [
+     "h3",
+     "Find a course near you"
+    ],
+    [
+     "h4",
+     "Northland"
+    ],
+    [
+     "h4",
+     "Auckland"
+    ],
+    [
+     "h4",
+     "Waikato"
+    ],
+    [
+     "h4",
+     "Bay of Plenty"
+    ],
+    [
+     "h4",
+     "Hawke's Bay"
+    ],
+    [
+     "h4",
+     "Manawatu-Whanganui"
+    ],
+    [
+     "h4",
+     "Wairarapa"
+    ],
+    [
+     "h4",
+     "Wellington"
+    ],
+    [
+     "h4",
+     "Marlborough + Tasman"
+    ],
+    [
+     "h4",
+     "Canterbury"
+    ],
+    [
+     "h4",
+     "Otago"
+    ],
+    [
+     "h3",
+     "Licensed Providers of the Defensive Driving Course"
+    ],
+    [
+     "h2",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "What's the best defensive driving course in New Zealand?"
+    ],
+    [
+     "h4",
+     "Is the AA Defensive Driving Course worth it?"
+    ],
+    [
+     "h4",
+     "When should I take a defensive driving course?"
+    ],
+    [
+     "h4",
+     "What do you learn in a defensive driving course?"
+    ],
+    [
+     "h4",
+     "How do I book an AA Defensive Driving Course?"
+    ]
+   ],
+   "h2": [
+    "A safer driver in 9 hours",
+    "Cost & booking",
+    "Defensive Driving Course vouchers",
+    "Frequently asked questions"
+   ],
+   "question_headings": 8,
+   "tables": 24,
+   "lists": 6,
+   "heading_level_skips": 3,
+   "text_ratio_pct": 5.1
+  },
+  "issues": [
+   "relative_canonical",
+   "relative_og_image",
+   "no_main_landmark",
+   "heading_skips_3",
+   "no_breadcrumb_schema",
+   "small_tap_targets"
+  ]
+ },
+ {
+  "url": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+  "slug": "road-code-practice-test",
+  "status": 200,
+  "final_url": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+  "x_robots": null,
+  "content_type": "text/html;charset=utf-8",
+  "html_bytes_static": 200046,
+  "html_bytes_rendered": 207207,
+  "static": {
+   "title": "Free NZ Road Code Practice Test | AA",
+   "meta_description": "Practice for your NZ learner licence theory test with free AA Road Code practice tests. Real-style questions, instant results, track your progress.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/road-code-practice-test/",
+   "og_title": "Free NZ Road Code Practice Test | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/driving-lessons/AA-Road-Code-Practice-Test-banner.jpg",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "Road Code Practice Tests"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "Road Code Practice Tests"
+    ],
+    [
+     "h2",
+     "Get test-ready before you sit your learner licence"
+    ],
+    [
+     "h3",
+     "Try it free"
+    ],
+    [
+     "h3",
+     "Purchase practice tests"
+    ],
+    [
+     "h3",
+     "Already registered?"
+    ],
+    [
+     "h2",
+     "What's included in the AA Road Code Practice Test"
+    ],
+    [
+     "h4",
+     "Real test-style questions"
+    ],
+    [
+     "h4",
+     "Track your progress"
+    ],
+    [
+     "h4",
+     "Practice anywhere"
+    ],
+    [
+     "h3",
+     "Frequently Asked Questions"
+    ],
+    [
+     "h4",
+     "How do I pass my learner licence theory test?"
+    ],
+    [
+     "h4",
+     "Where can I practice the NZ learner licence theory test online?"
+    ],
+    [
+     "h4",
+     "What's the best Road Code practice test in New Zealand?"
+    ],
+    [
+     "h4",
+     "Do I need to create a login for the Road Code Practice Test?"
+    ],
+    [
+     "h4",
+     "Are Road Code Practice Tests worth it?"
+    ],
+    [
+     "h4",
+     "Which Road Code practice test is closest to the real learner licence test"
+    ],
+    [
+     "h4",
+     "I have used some tests but didn't finish them. How do I access them?"
+    ],
+    [
+     "h4",
+     "Who do I contact if I'm having trouble redeeming my voucher?"
+    ],
+    [
+     "h3",
+     "Keep preparing for test day"
+    ],
+    [
+     "h4",
+     "Buy the NZ Road Code"
+    ],
+    [
+     "h4",
+     "About the learner licence"
+    ],
+    [
+     "h4",
+     "Get ready for the learner test"
+    ],
+    [
+     "h4",
+     "AA Driving Lessons"
+    ],
+    [
+     "h4",
+     "AA Member Benefits"
+    ],
+    [
+     "h4",
+     "Driver licensing"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 2066,
+   "word_count_body": 2066,
+   "jsonld_types": [
+    "Product",
+    "Service"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 385,
+   "links_internal": 347,
+   "imgs": 11,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 1
+  },
+  "rendered": {
+   "title": "Free NZ Road Code Practice Test | AA",
+   "meta_description": "Practice for your NZ learner licence theory test with free AA Road Code practice tests. Real-style questions, instant results, track your progress.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/road-code-practice-test/",
+   "og_title": "Free NZ Road Code Practice Test | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/driving-lessons/AA-Road-Code-Practice-Test-banner.jpg",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "Road Code Practice Tests"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "Road Code Practice Tests"
+    ],
+    [
+     "h2",
+     "Get test-ready before you sit your learner licence"
+    ],
+    [
+     "h3",
+     "Try it free"
+    ],
+    [
+     "h3",
+     "Purchase practice tests"
+    ],
+    [
+     "h3",
+     "Already registered?"
+    ],
+    [
+     "h2",
+     "What's included in the AA Road Code Practice Test"
+    ],
+    [
+     "h4",
+     "Real test-style questions"
+    ],
+    [
+     "h4",
+     "Track your progress"
+    ],
+    [
+     "h4",
+     "Practice anywhere"
+    ],
+    [
+     "h3",
+     "Frequently Asked Questions"
+    ],
+    [
+     "h4",
+     "How do I pass my learner licence theory test?"
+    ],
+    [
+     "h4",
+     "Where can I practice the NZ learner licence theory test online?"
+    ],
+    [
+     "h4",
+     "What's the best Road Code practice test in New Zealand?"
+    ],
+    [
+     "h4",
+     "Do I need to create a login for the Road Code Practice Test?"
+    ],
+    [
+     "h4",
+     "Are Road Code Practice Tests worth it?"
+    ],
+    [
+     "h4",
+     "Which Road Code practice test is closest to the real learner licence test"
+    ],
+    [
+     "h4",
+     "I have used some tests but didn't finish them. How do I access them?"
+    ],
+    [
+     "h4",
+     "Who do I contact if I'm having trouble redeeming my voucher?"
+    ],
+    [
+     "h3",
+     "Keep preparing for test day"
+    ],
+    [
+     "h4",
+     "Buy the NZ Road Code"
+    ],
+    [
+     "h4",
+     "About the learner licence"
+    ],
+    [
+     "h4",
+     "Get ready for the learner test"
+    ],
+    [
+     "h4",
+     "AA Driving Lessons"
+    ],
+    [
+     "h4",
+     "AA Member Benefits"
+    ],
+    [
+     "h4",
+     "Driver licensing"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 2066,
+   "word_count_body": 2066,
+   "jsonld_types": [
+    "Product",
+    "Service"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 385,
+   "links_internal": 347,
+   "imgs": 11,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 1
+  },
+  "mobile_ux": {
+   "scrollWidth": 390,
+   "innerWidth": 390,
+   "horizontal_overflow": false,
+   "tap_targets_under_48px": 26,
+   "text_under_12px": 0,
+   "page_height": 7279
+  },
+  "text_ratio_pct": 6.6,
+  "content": {
+   "has_main_landmark": false,
+   "word_count": 1004,
+   "headings": [
+    [
+     "h1",
+     "Road Code Practice Tests"
+    ],
+    [
+     "h2",
+     "Get test-ready before you sit your learner licence"
+    ],
+    [
+     "h3",
+     "Try it free"
+    ],
+    [
+     "h3",
+     "Purchase practice tests"
+    ],
+    [
+     "h3",
+     "Already registered?"
+    ],
+    [
+     "h2",
+     "What's included in the AA Road Code Practice Test"
+    ],
+    [
+     "h4",
+     "Real test-style questions"
+    ],
+    [
+     "h4",
+     "Track your progress"
+    ],
+    [
+     "h4",
+     "Practice anywhere"
+    ],
+    [
+     "h3",
+     "Frequently Asked Questions"
+    ],
+    [
+     "h4",
+     "How do I pass my learner licence theory test?"
+    ],
+    [
+     "h4",
+     "Where can I practice the NZ learner licence theory test online?"
+    ],
+    [
+     "h4",
+     "What's the best Road Code practice test in New Zealand?"
+    ],
+    [
+     "h4",
+     "Do I need to create a login for the Road Code Practice Test?"
+    ],
+    [
+     "h4",
+     "Are Road Code Practice Tests worth it?"
+    ],
+    [
+     "h4",
+     "Which Road Code practice test is closest to the real learner licence test"
+    ],
+    [
+     "h4",
+     "I have used some tests but didn't finish them. How do I access them?"
+    ],
+    [
+     "h4",
+     "Who do I contact if I'm having trouble redeeming my voucher?"
+    ],
+    [
+     "h3",
+     "Keep preparing for test day"
+    ],
+    [
+     "h4",
+     "Buy the NZ Road Code"
+    ],
+    [
+     "h4",
+     "About the learner licence"
+    ],
+    [
+     "h4",
+     "Get ready for the learner test"
+    ],
+    [
+     "h4",
+     "AA Driving Lessons"
+    ],
+    [
+     "h4",
+     "AA Member Benefits"
+    ],
+    [
+     "h4",
+     "Driver licensing"
+    ]
+   ],
+   "h2": [
+    "Get test-ready before you sit your learner licence",
+    "What's included in the AA Road Code Practice Test"
+   ],
+   "question_headings": 8,
+   "tables": 0,
+   "lists": 4,
+   "heading_level_skips": 1,
+   "text_ratio_pct": 2.8
+  },
+  "issues": [
+   "relative_canonical",
+   "relative_og_image",
+   "no_main_landmark",
+   "heading_skips_1",
+   "no_breadcrumb_schema",
+   "small_tap_targets"
+  ]
+ },
+ {
+  "url": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+  "slug": "get-ready-for-learner-test",
+  "status": 200,
+  "final_url": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+  "x_robots": null,
+  "content_type": "text/html;charset=utf-8",
+  "html_bytes_static": 201207,
+  "html_bytes_rendered": 207247,
+  "static": {
+   "title": "Get Ready for Your Learner Licence Test | AA",
+   "meta_description": "Prepare for your NZ learner licence theory test, what to bring, how it works, eyesight requirements, and free AA Road Code practice tests.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/get-ready-for-learner-test/",
+   "og_title": "Get Ready for Your Learner Licence Test | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/driving-lessons/aa-drivers-seat/Driver-licence-at-AA-get-ready-for-learner-licence-test.jpg",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "Get ready for your learner licence test"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "Get ready for your learner licence test"
+    ],
+    [
+     "h2",
+     "The learner test at a glance"
+    ],
+    [
+     "h4",
+     "16"
+    ],
+    [
+     "h4",
+     "Multiple choice"
+    ],
+    [
+     "h4",
+     "32 out of 35"
+    ],
+    [
+     "h4",
+     "13"
+    ],
+    [
+     "h3",
+     "Eyesight requirements"
+    ],
+    [
+     "h4",
+     "A quick eyesight screen"
+    ],
+    [
+     "h4",
+     "Wear glasses or contacts?"
+    ],
+    [
+     "h2",
+     "Prepare before you sit the test"
+    ],
+    [
+     "h3",
+     "Take a free practice test"
+    ],
+    [
+     "h3",
+     "Study the official Road Code"
+    ],
+    [
+     "h2",
+     "Ready to book?"
+    ],
+    [
+     "h3",
+     "What to bring on the day"
+    ],
+    [
+     "h3",
+     "When you pass"
+    ],
+    [
+     "h3",
+     "Where this fits in your licensing journey"
+    ],
+    [
+     "h4",
+     "1 - Learner licence"
+    ],
+    [
+     "h4",
+     "2 - Restricted licence"
+    ],
+    [
+     "h4",
+     "3 - Full licence"
+    ],
+    [
+     "h3",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "How old do I need to be to sit the learner test?"
+    ],
+    [
+     "h4",
+     "How many questions are there and what\u2019s the pass mark?"
+    ],
+    [
+     "h4",
+     "Can I book the test online or over the phone?"
+    ],
+    [
+     "h4",
+     "Is there an eyesight test?"
+    ],
+    [
+     "h4",
+     "What happens if I don\u2019t pass?"
+    ],
+    [
+     "h4",
+     "What will I get if I pass?"
+    ],
+    [
+     "h5",
+     "Keep preparing"
+    ],
+    [
+     "h4",
+     "An appointed NZ Transport Agency Waka Kotahi driver licensing agent"
+    ],
+    [
+     "h4",
+     "100,000+ driving lessons completed every year"
+    ],
+    [
+     "h4",
+     "Helping New Zealanders drive since 1967"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 1966,
+   "word_count_body": 1966,
+   "jsonld_types": [
+    "Service"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 385,
+   "links_internal": 352,
+   "imgs": 11,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 1
+  },
+  "rendered": {
+   "title": "Get Ready for Your Learner Licence Test | AA",
+   "meta_description": "Prepare for your NZ learner licence theory test, what to bring, how it works, eyesight requirements, and free AA Road Code practice tests.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/get-ready-for-learner-test/",
+   "og_title": "Get Ready for Your Learner Licence Test | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/driving-lessons/aa-drivers-seat/Driver-licence-at-AA-get-ready-for-learner-licence-test.jpg",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "Get ready for your learner licence test"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "Get ready for your learner licence test"
+    ],
+    [
+     "h2",
+     "The learner test at a glance"
+    ],
+    [
+     "h4",
+     "16"
+    ],
+    [
+     "h4",
+     "Multiple choice"
+    ],
+    [
+     "h4",
+     "32 out of 35"
+    ],
+    [
+     "h4",
+     "13"
+    ],
+    [
+     "h3",
+     "Eyesight requirements"
+    ],
+    [
+     "h4",
+     "A quick eyesight screen"
+    ],
+    [
+     "h4",
+     "Wear glasses or contacts?"
+    ],
+    [
+     "h2",
+     "Prepare before you sit the test"
+    ],
+    [
+     "h3",
+     "Take a free practice test"
+    ],
+    [
+     "h3",
+     "Study the official Road Code"
+    ],
+    [
+     "h2",
+     "Ready to book?"
+    ],
+    [
+     "h3",
+     "What to bring on the day"
+    ],
+    [
+     "h3",
+     "When you pass"
+    ],
+    [
+     "h3",
+     "Where this fits in your licensing journey"
+    ],
+    [
+     "h4",
+     "1 - Learner licence"
+    ],
+    [
+     "h4",
+     "2 - Restricted licence"
+    ],
+    [
+     "h4",
+     "3 - Full licence"
+    ],
+    [
+     "h3",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "How old do I need to be to sit the learner test?"
+    ],
+    [
+     "h4",
+     "How many questions are there and what\u2019s the pass mark?"
+    ],
+    [
+     "h4",
+     "Can I book the test online or over the phone?"
+    ],
+    [
+     "h4",
+     "Is there an eyesight test?"
+    ],
+    [
+     "h4",
+     "What happens if I don\u2019t pass?"
+    ],
+    [
+     "h4",
+     "What will I get if I pass?"
+    ],
+    [
+     "h5",
+     "Keep preparing"
+    ],
+    [
+     "h4",
+     "An appointed NZ Transport Agency Waka Kotahi driver licensing agent"
+    ],
+    [
+     "h4",
+     "100,000+ driving lessons completed every year"
+    ],
+    [
+     "h4",
+     "Helping New Zealanders drive since 1967"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 1966,
+   "word_count_body": 1966,
+   "jsonld_types": [
+    "Service"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 385,
+   "links_internal": 352,
+   "imgs": 11,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 1
+  },
+  "mobile_ux": {
+   "scrollWidth": 390,
+   "innerWidth": 390,
+   "horizontal_overflow": false,
+   "tap_targets_under_48px": 30,
+   "text_under_12px": 0,
+   "page_height": 8119
+  },
+  "text_ratio_pct": 6.3,
+  "content": {
+   "has_main_landmark": false,
+   "word_count": 904,
+   "headings": [
+    [
+     "h1",
+     "Get ready for your learner licence test"
+    ],
+    [
+     "h2",
+     "The learner test at a glance"
+    ],
+    [
+     "h4",
+     "16"
+    ],
+    [
+     "h4",
+     "Multiple choice"
+    ],
+    [
+     "h4",
+     "32 out of 35"
+    ],
+    [
+     "h4",
+     "13"
+    ],
+    [
+     "h3",
+     "Eyesight requirements"
+    ],
+    [
+     "h4",
+     "A quick eyesight screen"
+    ],
+    [
+     "h4",
+     "Wear glasses or contacts?"
+    ],
+    [
+     "h2",
+     "Prepare before you sit the test"
+    ],
+    [
+     "h3",
+     "Take a free practice test"
+    ],
+    [
+     "h3",
+     "Study the official Road Code"
+    ],
+    [
+     "h2",
+     "Ready to book?"
+    ],
+    [
+     "h3",
+     "What to bring on the day"
+    ],
+    [
+     "h3",
+     "When you pass"
+    ],
+    [
+     "h3",
+     "Where this fits in your licensing journey"
+    ],
+    [
+     "h4",
+     "1 - Learner licence"
+    ],
+    [
+     "h4",
+     "2 - Restricted licence"
+    ],
+    [
+     "h4",
+     "3 - Full licence"
+    ],
+    [
+     "h3",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "How old do I need to be to sit the learner test?"
+    ],
+    [
+     "h4",
+     "How many questions are there and what\u2019s the pass mark?"
+    ],
+    [
+     "h4",
+     "Can I book the test online or over the phone?"
+    ],
+    [
+     "h4",
+     "Is there an eyesight test?"
+    ],
+    [
+     "h4",
+     "What happens if I don\u2019t pass?"
+    ],
+    [
+     "h4",
+     "What will I get if I pass?"
+    ],
+    [
+     "h5",
+     "Keep preparing"
+    ],
+    [
+     "h4",
+     "An appointed NZ Transport Agency Waka Kotahi driver licensing agent"
+    ],
+    [
+     "h4",
+     "100,000+ driving lessons completed every year"
+    ],
+    [
+     "h4",
+     "Helping New Zealanders drive since 1967"
+    ]
+   ],
+   "h2": [
+    "The learner test at a glance",
+    "Prepare before you sit the test",
+    "Ready to book?"
+   ],
+   "question_headings": 8,
+   "tables": 0,
+   "lists": 3,
+   "heading_level_skips": 1,
+   "text_ratio_pct": 2.5
+  },
+  "issues": [
+   "relative_canonical",
+   "relative_og_image",
+   "no_main_landmark",
+   "heading_skips_1",
+   "no_breadcrumb_schema",
+   "small_tap_targets"
+  ]
+ },
+ {
+  "url": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+  "slug": "get-ready-for-restricted-test",
+  "status": 200,
+  "final_url": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+  "x_robots": null,
+  "content_type": "text/html;charset=utf-8",
+  "html_bytes_static": 195415,
+  "html_bytes_rendered": 201422,
+  "static": {
+   "title": "Get Ready for Your Restricted Licence Test | AA",
+   "meta_description": "Prepare for your NZ restricted practical test, what the test involves, common faults to avoid, and how a practice test with an AA instructor helps.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/get-ready-for-restricted-test/",
+   "og_title": "Get Ready for Your Restricted Licence Test | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/driving-lessons/aa-drivers-seat/driver-licence-at-AA-get-ready-for-restricted-licence-test-1.jpg",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "Get ready for your restricted licence test"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "Get ready for your restricted licence test"
+    ],
+    [
+     "h2",
+     "Before you book your test"
+    ],
+    [
+     "h2",
+     "What happens on test day"
+    ],
+    [
+     "h4",
+     "Check in"
+    ],
+    [
+     "h4",
+     "Vehicle check"
+    ],
+    [
+     "h4",
+     "Drive the route"
+    ],
+    [
+     "h4",
+     "Get your result"
+    ],
+    [
+     "h3",
+     "Common faults to avoid"
+    ],
+    [
+     "h4",
+     "Failing to look"
+    ],
+    [
+     "h4",
+     "Rolling through stops"
+    ],
+    [
+     "h4",
+     "Speed not matched to conditions"
+    ],
+    [
+     "h4",
+     "Poor lane position & signalling"
+    ],
+    [
+     "h4",
+     "Not sure you're ready?"
+    ],
+    [
+     "h3",
+     "Need to change or cancel your test?"
+    ],
+    [
+     "h2",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "How do I prepare for my restricted driving test?"
+    ],
+    [
+     "h4",
+     "Can I take a practice restricted driving test before the real one?"
+    ],
+    [
+     "h4",
+     "How do I get my restricted licence in New Zealand?"
+    ],
+    [
+     "h4",
+     "What happens during the restricted licence driving test?"
+    ],
+    [
+     "h4",
+     "What are the most common reasons people fail the restricted test?"
+    ],
+    [
+     "h4",
+     "Who runs the practical test?"
+    ],
+    [
+     "h4",
+     "What if I don't pass?"
+    ],
+    [
+     "h3",
+     "Become an AA Member \u2192"
+    ],
+    [
+     "h5",
+     "Keep going on your journey"
+    ],
+    [
+     "h4",
+     "NZTA Waka Kotahi-approved test booking agent"
+    ],
+    [
+     "h4",
+     "100,000+ driving lessons completed every year"
+    ],
+    [
+     "h4",
+     "AA Driver Licensing outlets nationwide"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 2141,
+   "word_count_body": 2141,
+   "jsonld_types": [
+    "Service"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 377,
+   "links_internal": 347,
+   "imgs": 15,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 1
+  },
+  "rendered": {
+   "title": "Get Ready for Your Restricted Licence Test | AA",
+   "meta_description": "Prepare for your NZ restricted practical test, what the test involves, common faults to avoid, and how a practice test with an AA instructor helps.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/get-ready-for-restricted-test/",
+   "og_title": "Get Ready for Your Restricted Licence Test | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/driving-lessons/aa-drivers-seat/driver-licence-at-AA-get-ready-for-restricted-licence-test-1.jpg",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "Get ready for your restricted licence test"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "Get ready for your restricted licence test"
+    ],
+    [
+     "h2",
+     "Before you book your test"
+    ],
+    [
+     "h2",
+     "What happens on test day"
+    ],
+    [
+     "h4",
+     "Check in"
+    ],
+    [
+     "h4",
+     "Vehicle check"
+    ],
+    [
+     "h4",
+     "Drive the route"
+    ],
+    [
+     "h4",
+     "Get your result"
+    ],
+    [
+     "h3",
+     "Common faults to avoid"
+    ],
+    [
+     "h4",
+     "Failing to look"
+    ],
+    [
+     "h4",
+     "Rolling through stops"
+    ],
+    [
+     "h4",
+     "Speed not matched to conditions"
+    ],
+    [
+     "h4",
+     "Poor lane position & signalling"
+    ],
+    [
+     "h4",
+     "Not sure you're ready?"
+    ],
+    [
+     "h3",
+     "Need to change or cancel your test?"
+    ],
+    [
+     "h2",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "How do I prepare for my restricted driving test?"
+    ],
+    [
+     "h4",
+     "Can I take a practice restricted driving test before the real one?"
+    ],
+    [
+     "h4",
+     "How do I get my restricted licence in New Zealand?"
+    ],
+    [
+     "h4",
+     "What happens during the restricted licence driving test?"
+    ],
+    [
+     "h4",
+     "What are the most common reasons people fail the restricted test?"
+    ],
+    [
+     "h4",
+     "Who runs the practical test?"
+    ],
+    [
+     "h4",
+     "What if I don't pass?"
+    ],
+    [
+     "h3",
+     "Become an AA Member \u2192"
+    ],
+    [
+     "h5",
+     "Keep going on your journey"
+    ],
+    [
+     "h4",
+     "NZTA Waka Kotahi-approved test booking agent"
+    ],
+    [
+     "h4",
+     "100,000+ driving lessons completed every year"
+    ],
+    [
+     "h4",
+     "AA Driver Licensing outlets nationwide"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 2141,
+   "word_count_body": 2141,
+   "jsonld_types": [
+    "Service"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 377,
+   "links_internal": 347,
+   "imgs": 15,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 1
+  },
+  "mobile_ux": {
+   "scrollWidth": 390,
+   "innerWidth": 390,
+   "horizontal_overflow": false,
+   "tap_targets_under_48px": 26,
+   "text_under_12px": 0,
+   "page_height": 7134
+  },
+  "text_ratio_pct": 7.1,
+  "content": {
+   "has_main_landmark": false,
+   "word_count": 1079,
+   "headings": [
+    [
+     "h1",
+     "Get ready for your restricted licence test"
+    ],
+    [
+     "h2",
+     "Before you book your test"
+    ],
+    [
+     "h2",
+     "What happens on test day"
+    ],
+    [
+     "h4",
+     "Check in"
+    ],
+    [
+     "h4",
+     "Vehicle check"
+    ],
+    [
+     "h4",
+     "Drive the route"
+    ],
+    [
+     "h4",
+     "Get your result"
+    ],
+    [
+     "h3",
+     "Common faults to avoid"
+    ],
+    [
+     "h4",
+     "Failing to look"
+    ],
+    [
+     "h4",
+     "Rolling through stops"
+    ],
+    [
+     "h4",
+     "Speed not matched to conditions"
+    ],
+    [
+     "h4",
+     "Poor lane position & signalling"
+    ],
+    [
+     "h4",
+     "Not sure you're ready?"
+    ],
+    [
+     "h3",
+     "Need to change or cancel your test?"
+    ],
+    [
+     "h2",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "How do I prepare for my restricted driving test?"
+    ],
+    [
+     "h4",
+     "Can I take a practice restricted driving test before the real one?"
+    ],
+    [
+     "h4",
+     "How do I get my restricted licence in New Zealand?"
+    ],
+    [
+     "h4",
+     "What happens during the restricted licence driving test?"
+    ],
+    [
+     "h4",
+     "What are the most common reasons people fail the restricted test?"
+    ],
+    [
+     "h4",
+     "Who runs the practical test?"
+    ],
+    [
+     "h4",
+     "What if I don't pass?"
+    ],
+    [
+     "h3",
+     "Become an AA Member \u2192"
+    ],
+    [
+     "h5",
+     "Keep going on your journey"
+    ],
+    [
+     "h4",
+     "NZTA Waka Kotahi-approved test booking agent"
+    ],
+    [
+     "h4",
+     "100,000+ driving lessons completed every year"
+    ],
+    [
+     "h4",
+     "AA Driver Licensing outlets nationwide"
+    ]
+   ],
+   "h2": [
+    "Before you book your test",
+    "What happens on test day",
+    "Frequently asked questions"
+   ],
+   "question_headings": 9,
+   "tables": 0,
+   "lists": 5,
+   "heading_level_skips": 3,
+   "text_ratio_pct": 3.2
+  },
+  "issues": [
+   "relative_canonical",
+   "relative_og_image",
+   "no_main_landmark",
+   "heading_skips_3",
+   "no_breadcrumb_schema",
+   "small_tap_targets"
+  ]
+ },
+ {
+  "url": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+  "slug": "get-ready-for-full-test",
+  "status": 200,
+  "final_url": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+  "x_robots": null,
+  "content_type": "text/html;charset=utf-8",
+  "html_bytes_static": 185961,
+  "html_bytes_rendered": 191686,
+  "static": {
+   "title": "Get Ready for Your Full Licence Test | AA",
+   "meta_description": "Prepare for your NZ full licence practical test, eligibility, what to expect on the day, and how a Defensive Driving Course cuts your wait time.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/get-ready-for-full-test/",
+   "og_title": "Get Ready for Your Full Licence Test | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/driving-lessons/aa-drivers-seat/driver-licence-at-AA-get-ready-for-full-licence-test-1.jpg",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "Get ready for your full licence test"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "Get ready for your full licence test"
+    ],
+    [
+     "h2",
+     "Are you ready to book?"
+    ],
+    [
+     "h3",
+     "On the day"
+    ],
+    [
+     "h2",
+     "Prepare to pass"
+    ],
+    [
+     "h3",
+     "Practice with an AA Instructor"
+    ],
+    [
+     "h3",
+     "AA Driving Lessons"
+    ],
+    [
+     "h4",
+     "Need to change or cancel your test?"
+    ],
+    [
+     "h2",
+     "Cut your wait with a Defensive Driving Course"
+    ],
+    [
+     "h2",
+     "Keep getting ready"
+    ],
+    [
+     "h4",
+     "Do an AA Defensive Driving Course"
+    ],
+    [
+     "h4",
+     "About the full licence"
+    ],
+    [
+     "h4",
+     "Refresh your Road Code knowledge with a practice test"
+    ],
+    [
+     "h2",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "How do I prepare for my full driving test?"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 1697,
+   "word_count_body": 1697,
+   "jsonld_types": [
+    "Service"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 376,
+   "links_internal": 348,
+   "imgs": 14,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 4
+  },
+  "rendered": {
+   "title": "Get Ready for Your Full Licence Test | AA",
+   "meta_description": "Prepare for your NZ full licence practical test, eligibility, what to expect on the day, and how a Defensive Driving Course cuts your wait time.",
+   "robots": null,
+   "canonical": "/drivers/driving-school/get-ready-for-full-test/",
+   "og_title": "Get Ready for Your Full Licence Test | AA",
+   "og_image": "/content/dam/nzaa/02-services/driving-school/driving-lessons/aa-drivers-seat/driver-licence-at-AA-get-ready-for-full-licence-test-1.jpg",
+   "viewport": "width=device-width, initial-scale=1",
+   "hreflang": [],
+   "h1": [
+    "Get ready for your full licence test"
+   ],
+   "headings": [
+    [
+     "h2",
+     "Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "About AA Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Membership Types keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Member Services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Business Membership keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Cars keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Car maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Buying & selling keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Ownership & registration keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Reviews & articles keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver training & licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Driving School keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Driver licensing keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "ID services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Instructor training keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Insurance & finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "General Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Personal Insurance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Finance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Disclosure statements keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Emergency trades keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home repairs & maintenance keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Home Inspection keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Travel keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "AA Traveller keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Maps keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "News & community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Identity verification services keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "In the community keyboard_arrow_down"
+    ],
+    [
+     "h2",
+     "Newsroom keyboard_arrow_down"
+    ],
+    [
+     "h1",
+     "Get ready for your full licence test"
+    ],
+    [
+     "h2",
+     "Are you ready to book?"
+    ],
+    [
+     "h3",
+     "On the day"
+    ],
+    [
+     "h2",
+     "Prepare to pass"
+    ],
+    [
+     "h3",
+     "Practice with an AA Instructor"
+    ],
+    [
+     "h3",
+     "AA Driving Lessons"
+    ],
+    [
+     "h4",
+     "Need to change or cancel your test?"
+    ],
+    [
+     "h2",
+     "Cut your wait with a Defensive Driving Course"
+    ],
+    [
+     "h2",
+     "Keep getting ready"
+    ],
+    [
+     "h4",
+     "Do an AA Defensive Driving Course"
+    ],
+    [
+     "h4",
+     "About the full licence"
+    ],
+    [
+     "h4",
+     "Refresh your Road Code knowledge with a practice test"
+    ],
+    [
+     "h2",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "How do I prepare for my full driving test?"
+    ],
+    [
+     "h5",
+     "Contact us keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Help & support keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Advocacy & safety keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Legal keyboard_arrow_down"
+    ],
+    [
+     "h5",
+     "Download the AA app"
+    ]
+   ],
+   "word_count_main": 1697,
+   "word_count_body": 1697,
+   "jsonld_types": [
+    "Service"
+   ],
+   "microdata": [
+    "http://schema.org/BreadcrumbList",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ListItem",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject",
+    "http://schema.org/ImageObject"
+   ],
+   "links_total": 376,
+   "links_internal": 348,
+   "imgs": 14,
+   "imgs_no_alt": 0,
+   "imgs_lazy": 4
+  },
+  "mobile_ux": {
+   "scrollWidth": 390,
+   "innerWidth": 390,
+   "horizontal_overflow": false,
+   "tap_targets_under_48px": 21,
+   "text_under_12px": 0,
+   "page_height": 6514
+  },
+  "text_ratio_pct": 6.1,
+  "content": {
+   "has_main_landmark": false,
+   "word_count": 635,
+   "headings": [
+    [
+     "h1",
+     "Get ready for your full licence test"
+    ],
+    [
+     "h2",
+     "Are you ready to book?"
+    ],
+    [
+     "h3",
+     "On the day"
+    ],
+    [
+     "h2",
+     "Prepare to pass"
+    ],
+    [
+     "h3",
+     "Practice with an AA Instructor"
+    ],
+    [
+     "h3",
+     "AA Driving Lessons"
+    ],
+    [
+     "h4",
+     "Need to change or cancel your test?"
+    ],
+    [
+     "h2",
+     "Cut your wait with a Defensive Driving Course"
+    ],
+    [
+     "h2",
+     "Keep getting ready"
+    ],
+    [
+     "h4",
+     "Do an AA Defensive Driving Course"
+    ],
+    [
+     "h4",
+     "About the full licence"
+    ],
+    [
+     "h4",
+     "Refresh your Road Code knowledge with a practice test"
+    ],
+    [
+     "h2",
+     "Frequently asked questions"
+    ],
+    [
+     "h4",
+     "How do I prepare for my full driving test?"
+    ]
+   ],
+   "h2": [
+    "Are you ready to book?",
+    "Prepare to pass",
+    "Cut your wait with a Defensive Driving Course",
+    "Keep getting ready",
+    "Frequently asked questions"
+   ],
+   "question_headings": 3,
+   "tables": 0,
+   "lists": 3,
+   "heading_level_skips": 2,
+   "text_ratio_pct": 2.0
+  },
+  "issues": [
+   "relative_canonical",
+   "relative_og_image",
+   "no_main_landmark",
+   "heading_skips_2",
+   "no_breadcrumb_schema",
+   "small_tap_targets"
+  ]
+ }
+]

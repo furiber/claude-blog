@@ -1,0 +1,512 @@
+{
+ "method": "5-word shingle Jaccard + containment on content-only rendered text",
+ "pairs": [
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "a_slug": "get-ready-for-restricted-test",
+   "b_slug": "get-ready-for-full-test",
+   "jaccard_pct": 8.8,
+   "containment_pct": 21.5
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "a_slug": "driving-school-hub",
+   "b_slug": "get-ready-for-full-test",
+   "jaccard_pct": 7.4,
+   "containment_pct": 14.2
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "a_slug": "driving-school-hub",
+   "b_slug": "get-ready-for-learner-test",
+   "jaccard_pct": 5.9,
+   "containment_pct": 13.9
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "a_slug": "get-ready-for-learner-test",
+   "b_slug": "get-ready-for-full-test",
+   "jaccard_pct": 5.8,
+   "containment_pct": 13.0
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "a_slug": "driving-school-hub",
+   "b_slug": "get-ready-for-restricted-test",
+   "jaccard_pct": 5.6,
+   "containment_pct": 14.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "a_slug": "driving-school-hub",
+   "b_slug": "road-code-practice-test",
+   "jaccard_pct": 5.5,
+   "containment_pct": 13.7
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "a_slug": "road-code-practice-test",
+   "b_slug": "get-ready-for-full-test",
+   "jaccard_pct": 5.2,
+   "containment_pct": 12.5
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "a_slug": "get-ready-for-learner-test",
+   "b_slug": "get-ready-for-restricted-test",
+   "jaccard_pct": 5.1,
+   "containment_pct": 10.7
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "a_slug": "driving-school-hub",
+   "b_slug": "driving-lessons",
+   "jaccard_pct": 5.0,
+   "containment_pct": 14.7
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "a_slug": "road-code-practice-test",
+   "b_slug": "get-ready-for-learner-test",
+   "jaccard_pct": 4.8,
+   "containment_pct": 9.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "a_slug": "driving-lessons",
+   "b_slug": "get-ready-for-full-test",
+   "jaccard_pct": 4.4,
+   "containment_pct": 12.3
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "a_slug": "road-code-practice-test",
+   "b_slug": "get-ready-for-restricted-test",
+   "jaccard_pct": 4.3,
+   "containment_pct": 8.5
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "a_slug": "driving-lessons",
+   "b_slug": "get-ready-for-learner-test",
+   "jaccard_pct": 3.9,
+   "containment_pct": 9.1
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "a_slug": "defensive-driving-course",
+   "b_slug": "get-ready-for-full-test",
+   "jaccard_pct": 3.9,
+   "containment_pct": 15.0
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "a_slug": "driving-lessons",
+   "b_slug": "get-ready-for-restricted-test",
+   "jaccard_pct": 3.7,
+   "containment_pct": 7.8
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "a_slug": "driving-lessons",
+   "b_slug": "road-code-practice-test",
+   "jaccard_pct": 3.6,
+   "containment_pct": 8.0
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "a_slug": "driving-school-hub",
+   "b_slug": "defensive-driving-course",
+   "jaccard_pct": 3.2,
+   "containment_pct": 13.2
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "a_slug": "defensive-driving-course",
+   "b_slug": "get-ready-for-learner-test",
+   "jaccard_pct": 2.9,
+   "containment_pct": 9.0
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "a_slug": "defensive-driving-course",
+   "b_slug": "road-code-practice-test",
+   "jaccard_pct": 2.8,
+   "containment_pct": 8.1
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "a_slug": "driving-lessons",
+   "b_slug": "defensive-driving-course",
+   "jaccard_pct": 2.7,
+   "containment_pct": 6.7
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "a_slug": "defensive-driving-course",
+   "b_slug": "get-ready-for-restricted-test",
+   "jaccard_pct": 2.7,
+   "containment_pct": 7.5
+  }
+ ],
+ "duplicate_titles": {},
+ "sibling_pairs": [
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-restricted-test/",
+   "jaccard_pct": 1.3,
+   "containment_pct": 4.1
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/road-code/",
+   "jaccard_pct": 1.1,
+   "containment_pct": 3.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-full-test/",
+   "jaccard_pct": 1.7,
+   "containment_pct": 3.4
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/learner-driver-licences/",
+   "jaccard_pct": 1.4,
+   "containment_pct": 3.2
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-learner-licence/",
+   "jaccard_pct": 0.9,
+   "containment_pct": 2.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-learner-licence/",
+   "jaccard_pct": 0.8,
+   "containment_pct": 2.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-restricted-licence/",
+   "jaccard_pct": 0.8,
+   "containment_pct": 2.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-restricted-test/",
+   "jaccard_pct": 0.9,
+   "containment_pct": 2.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/road-code/",
+   "jaccard_pct": 0.7,
+   "containment_pct": 2.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-full-test/",
+   "jaccard_pct": 0.8,
+   "containment_pct": 2.5
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-restricted-test/",
+   "jaccard_pct": 1.2,
+   "containment_pct": 2.4
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-full-test/",
+   "jaccard_pct": 0.9,
+   "containment_pct": 2.4
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/road-code/",
+   "jaccard_pct": 0.9,
+   "containment_pct": 2.3
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/road-code/",
+   "jaccard_pct": 0.6,
+   "containment_pct": 2.3
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-full-licence/",
+   "jaccard_pct": 0.5,
+   "containment_pct": 2.1
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-full-licence/",
+   "jaccard_pct": 0.6,
+   "containment_pct": 2.1
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-full-licence/",
+   "jaccard_pct": 0.8,
+   "containment_pct": 2.1
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-restricted-licence/",
+   "jaccard_pct": 0.7,
+   "containment_pct": 2.0
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-learner-licence/",
+   "jaccard_pct": 0.8,
+   "containment_pct": 1.9
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-full-test/",
+   "jaccard_pct": 0.9,
+   "containment_pct": 1.9
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/learner-driver-licences/",
+   "jaccard_pct": 0.8,
+   "containment_pct": 1.9
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-full-licence/",
+   "jaccard_pct": 0.3,
+   "containment_pct": 1.8
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-full-licence/",
+   "jaccard_pct": 0.6,
+   "containment_pct": 1.8
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/road-code/",
+   "jaccard_pct": 0.4,
+   "containment_pct": 1.8
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/road-code/",
+   "jaccard_pct": 0.3,
+   "containment_pct": 1.8
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/road-code/",
+   "jaccard_pct": 0.7,
+   "containment_pct": 1.8
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-restricted-licence/",
+   "jaccard_pct": 0.7,
+   "containment_pct": 1.7
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-restricted-test/",
+   "jaccard_pct": 0.8,
+   "containment_pct": 1.7
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-learner-licence/",
+   "jaccard_pct": 0.7,
+   "containment_pct": 1.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-learner-licence/",
+   "jaccard_pct": 0.4,
+   "containment_pct": 1.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-learner-licence/",
+   "jaccard_pct": 0.3,
+   "containment_pct": 1.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-learner-licence/",
+   "jaccard_pct": 0.5,
+   "containment_pct": 1.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-full-licence/",
+   "jaccard_pct": 0.7,
+   "containment_pct": 1.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-full-licence/",
+   "jaccard_pct": 0.5,
+   "containment_pct": 1.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-restricted-licence/",
+   "jaccard_pct": 0.7,
+   "containment_pct": 1.5
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-restricted-licence/",
+   "jaccard_pct": 0.4,
+   "containment_pct": 1.5
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-restricted-licence/",
+   "jaccard_pct": 0.3,
+   "containment_pct": 1.5
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/get-restricted-licence/",
+   "jaccard_pct": 0.5,
+   "containment_pct": 1.5
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-restricted-test/",
+   "jaccard_pct": 0.6,
+   "containment_pct": 1.4
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-restricted-test/",
+   "jaccard_pct": 0.3,
+   "containment_pct": 1.2
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-restricted-test/",
+   "jaccard_pct": 0.5,
+   "containment_pct": 1.2
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-full-test/",
+   "jaccard_pct": 0.3,
+   "containment_pct": 1.2
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-full-test/",
+   "jaccard_pct": 0.5,
+   "containment_pct": 1.2
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "b": "https://www.aa.co.nz/drivers/driving-school/practice-full-test/",
+   "jaccard_pct": 0.5,
+   "containment_pct": 1.2
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/full-driver-licences/",
+   "jaccard_pct": 0.5,
+   "containment_pct": 0.9
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/full-driver-licences/",
+   "jaccard_pct": 0.3,
+   "containment_pct": 0.7
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/full-driver-licences/",
+   "jaccard_pct": 0.3,
+   "containment_pct": 0.7
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/full-driver-licences/",
+   "jaccard_pct": 0.3,
+   "containment_pct": 0.7
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-restricted-test/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/learner-driver-licences/",
+   "jaccard_pct": 0.2,
+   "containment_pct": 0.6
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/learner-driver-licences/",
+   "jaccard_pct": 0.1,
+   "containment_pct": 0.2
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/learner-driver-licences/",
+   "jaccard_pct": 0.1,
+   "containment_pct": 0.2
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/learner-driver-licences/",
+   "jaccard_pct": 0.0,
+   "containment_pct": 0.2
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-full-test/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/learner-driver-licences/",
+   "jaccard_pct": 0.1,
+   "containment_pct": 0.2
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/full-driver-licences/",
+   "jaccard_pct": 0.0,
+   "containment_pct": 0.0
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/full-driver-licences/",
+   "jaccard_pct": 0.0,
+   "containment_pct": 0.0
+  },
+  {
+   "a": "https://www.aa.co.nz/drivers/driving-school/get-ready-for-learner-test/",
+   "b": "https://www.aa.co.nz/drivers/driver-licences/full-driver-licences/",
+   "jaccard_pct": 0.0,
+   "containment_pct": 0.0
+  }
+ ]
+}

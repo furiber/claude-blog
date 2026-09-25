@@ -1,0 +1,239 @@
+{
+  "retrieved_at": "2026-09-25T00:00:00Z",
+  "tool": "Firecrawl search, location New Zealand",
+  "queries": [
+    {
+      "query": "driving lessons nz",
+      "branded": false,
+      "results": [
+        {"position": 1, "url": "https://www.aa.co.nz/drivers/driving-school/driving-lessons/", "domain": "aa.co.nz", "title": "AA driving lessons for learner, restricted and full licences"},
+        {"position": 2, "url": "https://www.a1drivingschool.co.nz/", "domain": "a1drivingschool.co.nz", "title": "A1 Driving School: Driving Lessons, Driver Training Auckland"},
+        {"position": 3, "url": "https://www.youtube.com/watch?v=3XliikRFPh0", "domain": "youtube.com", "title": "Angela's First Driving Lesson in New Zealand"},
+        {"position": 4, "url": "https://driverprogrammes.salvationarmy.org.nz/", "domain": "salvationarmy.org.nz", "title": "Salvation Army Driver Programmes"},
+        {"position": 5, "url": "https://nzdrive.com/", "domain": "nzdrive.com", "title": "NZ Drive | Driver Training Christchurch"},
+        {"position": 6, "url": "https://drive.govt.nz/", "domain": "drive.govt.nz", "title": "Drive.govt.nz"},
+        {"position": 7, "url": "https://www.drivinginstruction.co.nz/", "domain": "drivinginstruction.co.nz", "title": "Professional driving lessons in Queenstown NZ"},
+        {"position": 8, "url": "https://www.driveiq.co.nz/", "domain": "driveiq.co.nz", "title": "Top Driving School - DriveIQ"},
+        {"position": 9, "url": "https://nzta.govt.nz/driving-skills/driver-courses-and-providers/advanced-driving-courses", "domain": "nzta.govt.nz", "title": "Advanced driving courses"},
+        {"position": 10, "url": "https://driveschool.co.nz/", "domain": "driveschool.co.nz", "title": "Mainland Driving School"}
+      ],
+      "aio": "not exposed"
+    },
+    {
+      "query": "driving lessons auckland",
+      "branded": false,
+      "results": [
+        {"position": 1, "url": "https://www.a1drivingschool.co.nz/", "domain": "a1drivingschool.co.nz", "title": "A1 Driving School: Driving Lessons, Driver Training Auckland"},
+        {"position": 2, "url": "https://drivingschool.aa.co.nz/", "domain": "aa.co.nz", "title": "AA Driving School: Book Driving Lessons Online"},
+        {"position": 3, "url": "https://www.reddit.com/r/auckland/comments/1j32lgc/", "domain": "reddit.com", "title": "What's the best/cheapest option for getting driving lessons"},
+        {"position": 4, "url": "https://www.facebook.com/r8first/", "domain": "facebook.com", "title": "Right First Driving School - Facebook"},
+        {"position": 5, "url": "https://m.yelp.com/search?cflt=driving_schools", "domain": "yelp.com", "title": "THE BEST 10 Driving Schools in AUCKLAND"},
+        {"position": 6, "url": "https://www.shoredrive.co.nz/", "domain": "shoredrive.co.nz", "title": "Shore Drive | Driving Instructor North Shore Auckland"},
+        {"position": 7, "url": "https://www.aokdrivinglessons.co.nz/", "domain": "aokdrivinglessons.co.nz", "title": "A OK Driving School"},
+        {"position": 8, "url": "https://www.accelar8.co.nz/", "domain": "accelar8.co.nz", "title": "Auckland Driving School | Accelar8 Driving Academy"},
+        {"position": 9, "url": "https://www.abovealldrivingschool.co.nz/", "domain": "abovealldrivingschool.co.nz", "title": "Above All L's Driving School"},
+        {"position": 10, "url": "https://westauckland.co.nz/directory/west-auckland/driving-lessons/", "domain": "westauckland.co.nz", "title": "Best Driving Lessons Near You - West Auckland"}
+      ],
+      "aio": "not exposed"
+    },
+    {
+      "query": "defensive driving course nz",
+      "branded": false,
+      "results": [
+        {"position": 1, "url": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/", "domain": "aa.co.nz", "title": "AA Defensive Driving Course NZ"},
+        {"position": 2, "url": "https://www.nzta.govt.nz/driving-skills/driver-courses-and-providers/advanced-driving-courses", "domain": "nzta.govt.nz", "title": "Advanced driving courses"},
+        {"position": 3, "url": "https://www.street-talk.co.nz/", "domain": "street-talk.co.nz", "title": "Street-Talk Defensive Driving"},
+        {"position": 4, "url": "https://www.fde.co.nz/", "domain": "fde.co.nz", "title": "Fusion Driver Education"},
+        {"position": 5, "url": "https://www.reddit.com/r/newzealand/comments/1l5nb1m/", "domain": "reddit.com", "title": "what's it like taking a defensive driving course?"},
+        {"position": 6, "url": "https://www.a1drivingschool.co.nz/defensive-driving/", "domain": "a1drivingschool.co.nz", "title": "Defensive Driving Courses Auckland"},
+        {"position": 7, "url": "https://roadtrain.nz/defensive-driving-course-advanced-driver-training-in-invercargill/", "domain": "roadtrain.nz", "title": "Defensive Driving Course & Advanced Driver Training"},
+        {"position": 8, "url": "https://kapitidrivingschool.com/street-talk/", "domain": "kapitidrivingschool.com", "title": "Street Talk Defensive Driving Course"},
+        {"position": 9, "url": "https://nads.net.nz/defensive-driving-courses/pricing/", "domain": "nads.net.nz", "title": "Pricing - Defensive Driving Course"},
+        {"position": 10, "url": "https://www.youtube.com/watch?v=SSLJmlnDPNg", "domain": "youtube.com", "title": "AA Defensive Driving Course (NZ)"}
+      ],
+      "aio": "not exposed"
+    },
+    {
+      "query": "road code practice test nz",
+      "branded": false,
+      "results": [
+        {"position": 1, "url": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/", "domain": "aa.co.nz", "title": "Free NZ Road Code Practice Test"},
+        {"position": 2, "url": "https://roadcodepractice.co.nz/", "domain": "roadcodepractice.co.nz", "title": "Practice Learner License Theory Tests"},
+        {"position": 3, "url": "https://drive.govt.nz/learner-licence/road-code", "domain": "drive.govt.nz", "title": "Drive Road Code"},
+        {"position": 4, "url": "https://www.drivingtests.co.nz/roadcode/car/", "domain": "drivingtests.co.nz", "title": "Free NZ Road Code Quizzes"},
+        {"position": 5, "url": "https://www.nzta.govt.nz/driving-skills/learn-to-drive/roadcode/theory-test-questions", "domain": "nzta.govt.nz", "title": "Theory test questions"},
+        {"position": 6, "url": "https://play.google.com/store/apps/details?id=com.quizrevo.roadcode.nz", "domain": "play.google.com", "title": "Road Code Driving Test NZ 2026"},
+        {"position": 7, "url": "https://www.safetynaction.co.nz/en/class-2-4-5-learner-practice-test/", "domain": "safetynaction.co.nz", "title": "Practice Your Class 2, 4 & 5 Truck Licence"},
+        {"position": 8, "url": "https://app.roadcodepractice.co.nz/", "domain": "roadcodepractice.co.nz", "title": "Road Code Practice - Official Tests"},
+        {"position": 9, "url": "https://drive.govt.nz/learner-licence", "domain": "drive.govt.nz", "title": "Prepare for your learner licence"},
+        {"position": 10, "url": "https://practicedrivingtest.co.nz/", "domain": "practicedrivingtest.co.nz", "title": "Free NZ Road Code Theory Practice Tests"}
+      ],
+      "aio": "not exposed"
+    },
+    {
+      "query": "learner licence test nz",
+      "branded": false,
+      "results": [
+        {"position": 1, "url": "https://www.drivingtests.co.nz/roadcode/car/", "domain": "drivingtests.co.nz", "title": "Free NZ Road Code Quizzes for Your Car Licence Test"},
+        {"position": 2, "url": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/", "domain": "aa.co.nz", "title": "Free NZ Road Code Practice Test"},
+        {"position": 3, "url": "https://nzta.govt.nz/driver-licences/sit-a-driving-test", "domain": "nzta.govt.nz", "title": "Sit a driving test"},
+        {"position": 4, "url": "https://play.google.com/store/apps/details?id=com.vialsoft.dttnzfreemium", "domain": "play.google.com", "title": "NZ Driving Theory Test - Apps"},
+        {"position": 5, "url": "https://drive.govt.nz/learner-licence/road-code", "domain": "drive.govt.nz", "title": "Drive Road Code"},
+        {"position": 6, "url": "https://www.youtube.com/watch?v=muJc3k9dUIg", "domain": "youtube.com", "title": "How To Pass Your Learners Licence in New Zealand"},
+        {"position": 7, "url": "https://vtnz.co.nz/car-licence", "domain": "vtnz.co.nz", "title": "Car Licence - VTNZ"},
+        {"position": 8, "url": "https://www.reddit.com/r/newzealand/comments/1ccohzh/learners_test/", "domain": "reddit.com", "title": "Learners Test"},
+        {"position": 9, "url": "https://www.aa.co.nz/drivers/driver-licences/learner-driver-licences/", "domain": "aa.co.nz", "title": "About the learner driver licence"},
+        {"position": 10, "url": "https://www.nzta.govt.nz/driver-licences/apply-for-a-car-licence/how-to-get-a-learner-licence", "domain": "nzta.govt.nz", "title": "How to get a learner licence"}
+      ],
+      "aio": "not exposed"
+    },
+    {
+      "query": "restricted licence test practice nz",
+      "branded": false,
+      "results": [
+        {"position": 1, "url": "https://www.aa.co.nz/drivers/driving-school/practice-restricted-test/", "domain": "aa.co.nz", "title": "Practice Restricted Test with an AA Driving School Instructor"},
+        {"position": 2, "url": "https://www.nzta.govt.nz/driver-licences/sit-a-driving-test/practical-tests", "domain": "nzta.govt.nz", "title": "Practical driving tests"},
+        {"position": 3, "url": "https://www.drivingtests.co.nz/roadcode/car/", "domain": "drivingtests.co.nz", "title": "Free NZ Road Code Quizzes for Your Car Licence Test"},
+        {"position": 4, "url": "https://drive.govt.nz/restricted-licence", "domain": "drive.govt.nz", "title": "Prepare for your restricted licence"},
+        {"position": 5, "url": "https://www.a1drivingschool.co.nz/car-training/pre-test-driving-assessment/", "domain": "a1drivingschool.co.nz", "title": "Pre-Test Assessment"},
+        {"position": 6, "url": "https://www.youtube.com/watch?v=Xbam0_Tp8Hk", "domain": "youtube.com", "title": "FULL Restricted Mock Driving Test NZ"},
+        {"position": 7, "url": "https://vtnz.co.nz/car-licence", "domain": "vtnz.co.nz", "title": "Car Licence - VTNZ"},
+        {"position": 8, "url": "https://www.aa.co.nz/drivers/driving-school/road-code-practice-test/", "domain": "aa.co.nz", "title": "Free NZ Road Code Practice Test"},
+        {"position": 9, "url": "https://www.thamesdrivertraining.co.nz/practice-driving-test", "domain": "thamesdrivertraining.co.nz", "title": "Practice Driving Test"},
+        {"position": 10, "url": "https://www.nzta.govt.nz/driver-licences/sit-a-driving-test/practical-tests/restricted-licence-test-guide", "domain": "nzta.govt.nz", "title": "Restricted licence test guide"}
+      ],
+      "aio": "not exposed"
+    },
+    {
+      "query": "full licence test nz",
+      "branded": false,
+      "results": [
+        {"position": 1, "url": "https://www.nzta.govt.nz/driver-licences/sit-a-driving-test/practical-tests/full-licence-practical-driving-test", "domain": "nzta.govt.nz", "title": "Full licence practical driving test"},
+        {"position": 2, "url": "https://vtnz.co.nz/car-licence", "domain": "vtnz.co.nz", "title": "Car Licence - VTNZ"},
+        {"position": 3, "url": "https://www.youtube.com/watch?v=9bnlGOUxh-0", "domain": "youtube.com", "title": "What's involved with the current full driver's licence test?"},
+        {"position": 4, "url": "https://www.aa.co.nz/drivers/driver-licences/full-driver-licences/", "domain": "aa.co.nz", "title": "About the full licence"},
+        {"position": 5, "url": "https://www.reddit.com/r/newzealand/comments/1qua2ch/", "domain": "reddit.com", "title": "Full licence test to be scrapped under major NZ driving law changes"},
+        {"position": 6, "url": "https://drive.govt.nz/full-licence", "domain": "drive.govt.nz", "title": "Prepare for your full licence"},
+        {"position": 7, "url": "https://www.drivingtests.co.nz/roadcode/car/", "domain": "drivingtests.co.nz", "title": "Free NZ Road Code Quizzes for Your Car Licence Test"},
+        {"position": 8, "url": "https://www.a1drivingschool.co.nz/car-training/full-licence/", "domain": "a1drivingschool.co.nz", "title": "Full Driver's Licence Information"},
+        {"position": 9, "url": "https://www.beehive.govt.nz/release/changes-driver-licensing-system-announced", "domain": "beehive.govt.nz", "title": "Changes to the driver licensing system announced"},
+        {"position": 10, "url": "https://www.youtube.com/watch?v=zLKNGUGSdwk", "domain": "youtube.com", "title": "Full Licence Mock Driving Test"}
+      ],
+      "aio": "not exposed"
+    },
+    {
+      "query": "aa driving school",
+      "branded": true,
+      "results": [
+        {"position": 1, "url": "https://www.indianadriving.com/", "domain": "indianadriving.com", "title": "AA Indiana Driving School", "note": "USA-based"},
+        {"position": 2, "url": "https://www.aa-driving.com/", "domain": "aa-driving.com", "title": "A&A Driving School", "note": "USA-based"},
+        {"position": 3, "url": "https://aadrivingschoolva.com/", "domain": "aadrivingschoolva.com", "title": "AA Driving School – Best Driving School in northern Virginia", "note": "USA-based"},
+        {"position": 4, "url": "https://www.theaa.com/driving-school", "domain": "theaa.com", "title": "Find Driving Instructors Near You with AA Driving School", "note": "UK-based"},
+        {"position": 5, "url": "https://aadrivingrenton.com/", "domain": "aadrivingrenton.com", "title": "AA Driving School: Homepage", "note": "USA-based"},
+        {"position": 6, "url": "https://aadrivingacademy.net/", "domain": "aadrivingacademy.net", "title": "Driving Courses Virginia", "note": "USA-based"},
+        {"position": 7, "url": "https://www.duidrivingschool.com/", "domain": "duidrivingschool.com", "title": "AA Academy Driving School: Home - Cumming", "note": "USA-based"},
+        {"position": 8, "url": "https://www.aaplusdrivingschool.com/", "domain": "aaplusdrivingschool.com", "title": "AA Plus Driving School: Driving School Fairfax, VA", "note": "USA-based"},
+        {"position": 9, "url": "https://www.aadrivingschool.ws/", "domain": "aadrivingschool.ws", "title": "AA Driving School: Home - Centreville", "note": "USA-based"},
+        {"position": 10, "url": "https://m.yelp.com/biz/aa-driving-school-renton", "domain": "yelp.com", "title": "AA DRIVING SCHOOL - Updated September 2026", "note": "USA-based (Renton, WA)"}
+      ],
+      "aio": "not exposed",
+      "critical_issue": "AA New Zealand (aa.co.nz) does NOT appear in top 10 results for branded query 'aa driving school' - all results are USA and UK-based competitors"
+    },
+    {
+      "query": "aa defensive driving course",
+      "branded": true,
+      "results": [
+        {"position": 1, "url": "https://northeast.aaa.com/community/defensive-driving-courses/ny.html", "domain": "aaa.com", "title": "New York Defensive Driving Course - AAA Northeast", "note": "USA-based"},
+        {"position": 2, "url": "https://www.aa.co.nz/drivers/driving-school/defensive-driving-course/", "domain": "aa.co.nz", "title": "AA Defensive Driving Course NZ"},
+        {"position": 3, "url": "https://www.duidrivingschool.com/", "domain": "duidrivingschool.com", "title": "AA Academy Driving School: Home", "note": "USA-based"},
+        {"position": 4, "url": "https://aadrivingacademy.net/", "domain": "aadrivingacademy.net", "title": "Driving Courses Virginia", "note": "USA-based"},
+        {"position": 5, "url": "https://www.aaautomobilecluboflongisland.com/defensive-driving", "domain": "aaautomobilecluboflongisland.com", "title": "Defensive Driving - AA Automobile Club Of LI", "note": "USA-based"},
+        {"position": 6, "url": "https://www.aa-driving.com/", "domain": "aa-driving.com", "title": "A&A Driving School", "note": "USA-based"},
+        {"position": 7, "url": "https://www.youtube.com/watch?v=SSLJmlnDPNg", "domain": "youtube.com", "title": "AA Defensive Driving Course (NZ) - Watching for hazards"},
+        {"position": 8, "url": "https://www.aaplusdrivingschool.com/", "domain": "aaplusdrivingschool.com", "title": "AA Plus Driving School: Driving School Fairfax, VA", "note": "USA-based"},
+        {"position": 9, "url": "https://quizlet.com/470496913/aa-driving-academy-defensive-driving-course-flash-cards/", "domain": "quizlet.com", "title": "AA Driving Academy - Defensive Driving Course Flashcards"},
+        {"position": 10, "url": "https://www.dtadirect.com/ddc-class/", "domain": "dtadirect.com", "title": "Defensive Driving Course & Class Nassau, Queens, Brooklyn & NYC NY", "note": "USA-based"}
+      ],
+      "aio": "not exposed"
+    }
+  ],
+  "domain_overlap": [
+    {"domain": "aa.co.nz", "queries_present": 7, "avg_position": 1.857, "note": "Appears in all non-branded queries"},
+    {"domain": "a1drivingschool.co.nz", "queries_present": 4, "avg_position": 3.5, "queries": [1, 2, 3, 6]},
+    {"domain": "drivingtests.co.nz", "queries_present": 4, "avg_position": 3.75, "queries": [4, 5, 6, 7]},
+    {"domain": "drive.govt.nz", "queries_present": 5, "avg_position": 4.8, "queries": [1, 4, 5, 6, 7], "type": "government"},
+    {"domain": "nzta.govt.nz", "queries_present": 6, "avg_position": 3.67, "queries": [1, 3, 4, 5, 6, 7], "type": "government"},
+    {"domain": "vtnz.co.nz", "queries_present": 3, "avg_position": 5.33, "queries": [5, 6, 7]},
+    {"domain": "youtube.com", "queries_present": 5, "avg_position": null, "type": "social_media"}
+  ],
+  "top_competitors": [
+    "a1drivingschool.co.nz",
+    "drivingtests.co.nz",
+    "vtnz.co.nz"
+  ],
+  "gov_info_domains": [
+    "nzta.govt.nz",
+    "drive.govt.nz",
+    "beehive.govt.nz"
+  ],
+  "competitor_pages": [
+    {
+      "query": "driving lessons nz",
+      "position": 2,
+      "url": "https://www.a1drivingschool.co.nz/",
+      "domain": "a1drivingschool.co.nz",
+      "word_count": 745,
+      "h2s": [
+        "Our Fleet of Cars for Training",
+        "Our Team of Instructors",
+        "What our clients say"
+      ]
+    },
+    {
+      "query": "defensive driving course nz",
+      "position": 3,
+      "url": "https://www.street-talk.co.nz/",
+      "domain": "street-talk.co.nz",
+      "word_count": 3418,
+      "h2s": [
+        "About the Defensive Driving Course",
+        "What Is It??",
+        "Why Us?",
+        "How Long Does It Take?",
+        "How Much Does It Cost?",
+        "Benefits of Street Talk Course",
+        "Get Started Now",
+        "Find a provider nearest you.",
+        "Contact Us"
+      ],
+      "note": "Very detailed page with nationwide provider directory"
+    },
+    {
+      "query": "road code practice test nz",
+      "position": 2,
+      "url": "https://roadcodepractice.co.nz/",
+      "domain": "roadcodepractice.co.nz",
+      "word_count": 256,
+      "h2s": [
+        "The New Zealand Road Code Tests",
+        "Give yourself the best chance of passing your Learner Licence theory test",
+        "Sit your official test with confidence",
+        "The official New Zealand road code"
+      ]
+    }
+  ],
+  "audit_insights": {
+    "critical_findings": [
+      "AA NZ does NOT rank in top 10 for generic branded query 'aa driving school' - all results are USA/UK competitors",
+      "AA NZ ranks position 2 for 'aa defensive driving course' branded query - losing to AAA Northeast USA at position 1",
+      "AA.co.nz dominates non-branded queries with position 1 in 5 of 7 non-branded searches"
+    ],
+    "competitor_insights": {
+      "a1_drivingschool": "Fourth most prominent competitor; ranks #1 for 'driving lessons auckland' and appears in 4 of 7 non-branded queries; established 1973, strong testimonials",
+      "drivingtests_co_nz": "Appears in 4 non-branded queries with avg position 3.75; provides free practice tests, competitive SERP presence",
+      "street_talk_co_nz": "Ranks #3 for defensive driving; runs nationwide provider network; strong content depth (3400+ words)"
+    },
+    "government_presence": "NZTA and Drive.govt.nz rank in top 10 for most driving-related queries; provide authoritative informational content",
+    "ai_overview": "No AI Overview / featured answer detected in any Firecrawl results"
+  }
+}

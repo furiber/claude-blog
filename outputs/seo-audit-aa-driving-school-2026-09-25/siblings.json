@@ -1,0 +1,74 @@
+[
+ {
+  "url": "https://www.aa.co.nz/drivers/driving-school/get-learner-licence/",
+  "status": 200,
+  "title": "Get Your Learner Licence in NZ with AA Driving School",
+  "h1": [
+   "Get Your Learner Licence in NZ with AA Driving School"
+  ],
+  "word_count": 428
+ },
+ {
+  "url": "https://www.aa.co.nz/drivers/driving-school/get-restricted-licence/",
+  "status": 200,
+  "title": "Get Your Restricted Licence with AA Driving School",
+  "h1": [
+   "Get your restricted licence the AA Way"
+  ],
+  "word_count": 460
+ },
+ {
+  "url": "https://www.aa.co.nz/drivers/driving-school/get-full-licence/",
+  "status": 200,
+  "title": "Get Your Full Licence in NZ with AA Driving Lessons",
+  "h1": [
+   "Get Your Full Licence in NZ with AA Driving Lessons"
+  ],
+  "word_count": 436
+ },
+ {
+  "url": "https://www.aa.co.nz/drivers/driving-school/practice-restricted-test/",
+  "status": 200,
+  "title": "Practice Restricted Test with an AA Driving School Instructor",
+  "h1": [
+   "Practice for your restricted licence driving test"
+  ],
+  "word_count": 596
+ },
+ {
+  "url": "https://www.aa.co.nz/drivers/driving-school/practice-full-test/",
+  "status": 200,
+  "title": "Practice Full Licence Test with an AA Driving School Instructor",
+  "h1": [
+   "Practice with an AA Driving Instructor for the full licence test"
+  ],
+  "word_count": 610
+ },
+ {
+  "url": "https://www.aa.co.nz/drivers/driving-school/road-code/",
+  "status": 200,
+  "title": "New Zealand Road Code for Your Learner Licence | AA",
+  "h1": [
+   "New Zealand Road Code for Your Learner Licence"
+  ],
+  "word_count": 398
+ },
+ {
+  "url": "https://www.aa.co.nz/drivers/driver-licences/learner-driver-licences/",
+  "status": 200,
+  "title": "About the learner driver licence",
+  "h1": [
+   "About the learner licence"
+  ],
+  "word_count": 632
+ },
+ {
+  "url": "https://www.aa.co.nz/drivers/driver-licences/full-driver-licences/",
+  "status": 200,
+  "title": "About the full licence",
+  "h1": [
+   "About the full licence"
+  ],
+  "word_count": 686
+ }
+]

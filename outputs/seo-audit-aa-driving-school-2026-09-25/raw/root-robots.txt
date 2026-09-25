@@ -1,0 +1,12 @@
+# http://www.semrush.com/bot.html
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: FAST Enterprise Crawler
+Disallow: /
+
+User-agent: *
+ 
+Disallow: /content/experience-fragments/
+ 
+Sitemap: https://www.aa.co.nz/sitemap.xml
